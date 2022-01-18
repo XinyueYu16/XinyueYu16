@@ -7,6 +7,7 @@
 -----------------------------
 
 🎯 Recent Target: 'ROLL'
+1/19 ~ 2/14: 数据结构零基础探索进行中。
 
 ![image](https://user-images.githubusercontent.com/54791893/149882409-d2e4f624-019c-49aa-acba-ff67b86398aa.png)
 
