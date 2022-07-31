@@ -10,9 +10,9 @@
 - House Price Prediction (Boosting Method: Tree + NNLS)
 - Mall Footfall Prediction (Automatic Model Training Scripts)
 - NLP (Topic Modeling, Sentiment Analysis)
-- Other: Mall Competitors Identifictiaon(Clustering), Population Prediction(Transfer Learning, Regression), some webscraping, some demo websites building(JS)....
+- Other: Mall Competitors Identifictiaon(Clustering), Population Prediction(Transfer Learning, Regression), some [webscraping](https://github.com/XinyueYu16/Weibo-Scraper), some demo websites building(JS)....
 
-✨ 
+💞️ Interested in Anime, Rock, Memes, Games / Psychology, Linguistics, Mythology and Philosophy
 
 
 -----------------------------
