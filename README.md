@@ -1,17 +1,21 @@
-👋 Hi, I'm Willa Yu 
+👋 Hi, Willa Yu here. 
 
-🌱 I’m currently working as a Data Scientist in a Geopatial Analysis Company in Shanghai, China
+📫 Currently working as a Data Scientist in a Geopatial Analysis Company in Shanghai, China.
 
-👀 I’m interested in (Geospatial) Data Analytics, Machine Learning, Visualization
+🌱 Aspired to dig deeper into solving real problems the data-centric way.
+
+👀 My past experiences include: 
+
+- Location Recommendation (Constraint Linear Programming)
+- House Price Prediction (Boosting Method: Tree + NNLS)
+- Mall Footfall Prediction (Automatic Model Training Scripts)
+- NLP (Topic Modeling, Sentiment Analysis)
+- Other: Mall Competitors Identifictiaon(Clustering), Population Prediction(Transfer Learning, Regression), some webscraping, some demo websites building(JS)....
+
+✨ 
+
 
 -----------------------------
-
-🎯 Recent Target: 'ROLL'
-1/19 ~ 2/14: 数据结构零基础探索进行中。
-
-![image](https://user-images.githubusercontent.com/54791893/149882409-d2e4f624-019c-49aa-acba-ff67b86398aa.png)
-
-
 <!---
 - 📫 How to reach me ...
 - 💞️ I’m looking to collaborate on ...
