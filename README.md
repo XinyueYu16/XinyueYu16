@@ -11,15 +11,15 @@
 - Mall Footfall Prediction (Automatic Model Training Scripts)
 - NLP (Topic Modeling, Sentiment Analysis)
 - Other: 
- - Mall Competitors Identifictiaon(Clustering)
- - Population Prediction(Transfer Learning, Regression)
- - some webscraping:
-  - [Weibo Scraper - Requests](https://github.com/XinyueYu16/Weibo-Scraper)
-  - [Dazhong Dianping Scraping - Selenium](https://github.com/XinyueYu16/POI_geo_analysis)
-  - [Nasdaq News Scraping - Selenium](https://github.com/XinyueYu16/COVID-19_UCD_Challenge)
- - some [data visualizations](https://github.com/XinyueYu16/Data_Visualizations)
- - some demo websites building(JS)....
- - some explorations in Python modules(tkinter)[](https://github.com/XinyueYu16/Behavioral_Question_Generator)
+  - Mall Competitors Identifictiaon(Clustering)
+  - Population Prediction(Transfer Learning, Regression)
+  - some webscraping:
+    - [Weibo Scraper - Requests](https://github.com/XinyueYu16/Weibo-Scraper)
+    - [Dazhong Dianping Scraping - Selenium](https://github.com/XinyueYu16/POI_geo_analysis)
+    - [Nasdaq News Scraping - Selenium](https://github.com/XinyueYu16/COVID-19_UCD_Challenge)
+   - some [data visualizations](https://github.com/XinyueYu16/Data_Visualizations)
+  - some demo websites building(JS)....
+  - some explorations in Python modules(tkinter)[](https://github.com/XinyueYu16/Behavioral_Question_Generator)
 
 💞️ Interested in Anime, Rock, Memes, Games / Psychology, Linguistics, Mythology and Philosophy
 
