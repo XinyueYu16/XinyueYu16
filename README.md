@@ -1,6 +1,6 @@
 👋 Hi, Willa Yu here. 
 
-📫 Currently working as a Data Scientist in a Geopatial Analysis Company in Shanghai, China.
+📫 Currently working as a Data Scientist in a Geospatial Analysis Company in Shanghai, China.
 
 🌱 Aspired to dig deeper into solving real problems the data-centric way.
 
