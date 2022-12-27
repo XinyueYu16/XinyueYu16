@@ -1,25 +1,12 @@
-👋 Hi, Willa Yu here. 
+👋 I'm Willa Yu, used to work as a Data Scientist in a Geospatial Analysis Company in Shanghai, China.
 
-📫 Currently working as a Data Scientist in a Geospatial Analysis Company in Shanghai, China.
+🌱 My past experiences include:
 
-🌱 Aspired to dig deeper into solving real problems the data-centric way.
-
-👀 My past experiences include: 
-
-- Location Recommendation (Constraint Linear Programming)
-- House Price Prediction (Boosting Method: Tree + NNLS)
-- Mall Footfall Prediction (Automatic Model Training Scripts)
-- NLP (Topic Modeling, Sentiment Analysis)
-- Other: 
-  - Mall Competitors Identifictiaon(Clustering)
-  - Population Prediction(Transfer Learning, Regression)
-  - some webscraping:
-    - [Weibo Scraper - Requests](https://github.com/XinyueYu16/Weibo-Scraper)
-    - [Dazhong Dianping Scraping - Selenium](https://github.com/XinyueYu16/POI_geo_analysis)
-    - [Nasdaq News Scraping - Selenium](https://github.com/XinyueYu16/COVID-19_UCD_Challenge)
-   - some [data visualizations](https://github.com/XinyueYu16/Data_Visualizations)
-  - some demo websites building(JS)....
-  - some explorations in Python modules(tkinter)[Behavioral_Question_Generator](https://github.com/XinyueYu16/Behavioral_Question_Generator)
+- Site Selection Model (Constraint Linear Programming)
+- Real-estate Appraisal Model (Model Tree)
+- Mall Footfall Prediction (LGBM, Automatic Model Training Scripts)
+- NLP (Topic Modeling, Sentiment Analysis): ✨[Twitter Sentiment Analysis on COVID-19](https://github.com/XinyueYu16/COVID-19_UCD_Challenge)
+- ....
 
 💞️ Interested in Anime, Rock, Memes, Games / Psychology, Linguistics, Mythology and Philosophy
 
