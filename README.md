@@ -1,20 +1,9 @@
-👋 I'm Willa Yu, used to work as a Data Scientist in a Geospatial Analysis Company in Shanghai, China.
+👋 Hi, I'm Willa Yu, used to work as a Geospatial Data Scientist, now working as a noob Deep Learning Scientist in Energy Industry/Recommendation System.
 
 🌱 My past experiences include:
-
-- Site Selection Model (Constraint Linear Programming)
-- Real-estate Appraisal Model (Model Tree)
-- Mall Footfall Prediction (LGBM, Automatic Model Training Scripts)
 - NLP (Topic Modeling, Sentiment Analysis): ✨[Twitter Sentiment Analysis on COVID-19](https://github.com/XinyueYu16/COVID-19_UCD_Challenge)
 - ....
 
-💞️ Interested in Anime, Rock, Memes, Games / Psychology, Linguistics, Mythology and Philosophy
-
+💞️ Interested in NLP, 3D modeling, design, and data visualization.
 
 -----------------------------
-<!---
-- 📫 How to reach me ...
-- 💞️ I’m looking to collaborate on ...
-XinyueYu16/XinyueYu16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
